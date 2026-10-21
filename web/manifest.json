@@ -1,0 +1,11 @@
+{
+    "name": "calculateur",
+    "short_name": "calculateur",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Calculateur - Application Flutter",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
